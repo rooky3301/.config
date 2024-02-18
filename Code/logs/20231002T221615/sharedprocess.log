@@ -1,0 +1,18 @@
+2023-10-02 22:16:20.735 [info] Deleted uninstalled extension from disk rangav.vscode-thunder-client /home/scrviyy/.vscode/extensions/rangav.vscode-thunder-client-2.12.4
+2023-10-02 22:16:20.868 [info] Deleted uninstalled extension from disk ms-vscode.vscode-typescript-next /home/scrviyy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20230927
+2023-10-02 22:16:23.677 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2023-10-02 22:16:23.678 [info] Getting Manifest... rangav.vscode-thunder-client
+2023-10-02 22:16:23.719 [info] Installing extension: rangav.vscode-thunder-client
+2023-10-02 22:16:23.719 [info] Installing extension: ms-vscode.vscode-typescript-next
+2023-10-02 22:16:25.046 [warning] Extension signature verification failed with error 'UnknownError': rangav.vscode-thunder-client
+2023-10-02 22:16:25.176 [info] Extracted extension to file:///home/scrviyy/.vscode/extensions/rangav.vscode-thunder-client-2.12.6: rangav.vscode-thunder-client
+2023-10-02 22:16:25.180 [info] Renamed to /home/scrviyy/.vscode/extensions/rangav.vscode-thunder-client-2.12.6
+2023-10-02 22:16:25.183 [info] Extracting extension completed. rangav.vscode-thunder-client
+2023-10-02 22:16:25.201 [info] Extension installed successfully: rangav.vscode-thunder-client
+2023-10-02 22:16:25.212 [info] Marked extension as uninstalled rangav.vscode-thunder-client-2.12.5
+2023-10-02 22:16:25.392 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.vscode-typescript-next
+2023-10-02 22:16:25.739 [info] Extracted extension to file:///home/scrviyy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20231002: ms-vscode.vscode-typescript-next
+2023-10-02 22:16:25.747 [info] Renamed to /home/scrviyy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20231002
+2023-10-02 22:16:25.749 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2023-10-02 22:16:25.758 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2023-10-02 22:16:25.763 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.3.20230929

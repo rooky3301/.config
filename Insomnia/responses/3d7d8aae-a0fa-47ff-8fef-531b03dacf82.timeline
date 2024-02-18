@@ -1,0 +1,52 @@
+[
+	{
+		"value": "Preparing request to http://54.80.149.242/api/banks",
+		"name": "Text",
+		"timestamp": 1694699301216
+	},
+	{
+		"value": "Current time is 2023-09-14T13:48:21.216Z",
+		"name": "Text",
+		"timestamp": 1694699301216
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1694699301216
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1694699301218
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1694699301218
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1694699301218
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1694699301218
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 54.80.149.242:80...\n",
+		"timestamp": 1694699301218
+	},
+	{
+		"name": "Text",
+		"value": "Connection timed out after 30000 milliseconds\n",
+		"timestamp": 1694699331219
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 13\n",
+		"timestamp": 1694699331219
+	}
+]

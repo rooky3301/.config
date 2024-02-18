@@ -1,0 +1,72 @@
+[
+	{
+		"value": "Preparing request to http://localhost:8089/api/auth/login",
+		"name": "Text",
+		"timestamp": 1694698922108
+	},
+	{
+		"value": "Current time is 2023-09-14T13:42:02.108Z",
+		"name": "Text",
+		"timestamp": 1694698922108
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1694698922108
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1694698922109
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1694698922109
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1694698922109
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1694698922109
+	},
+	{
+		"name": "Text",
+		"value": "Hostname localhost was found in DNS cache\n",
+		"timestamp": 1694698922110
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:8089...\n",
+		"timestamp": 1694698922110
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 8089 failed: Connection refused\n",
+		"timestamp": 1694698922110
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:8089...\n",
+		"timestamp": 1694698922110
+	},
+	{
+		"name": "Text",
+		"value": "connect to ::1 port 8089 failed: Connection refused\n",
+		"timestamp": 1694698922111
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 8089 after 1 ms: Connection refused\n",
+		"timestamp": 1694698922111
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 12\n",
+		"timestamp": 1694698922111
+	}
+]

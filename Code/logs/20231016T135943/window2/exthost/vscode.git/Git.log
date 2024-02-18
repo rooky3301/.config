@@ -1,0 +1,41 @@
+2023-10-16 14:21:46.504 [info] Log level: Info
+2023-10-16 14:21:46.504 [info] Validating found git in: "git"
+2023-10-16 14:21:46.504 [info] Using git "2.42.0" from "git"
+2023-10-16 14:21:46.504 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-16 14:21:46.506 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-10-16 14:21:46.523 [info] Open repository: /home/scrviyy/work/LogixBR/front-admin
+2023-10-16 14:21:46.554 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-16 14:21:46.555 [info] > git config --get commit.template [19ms]
+2023-10-16 14:21:46.584 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-16 14:21:46.599 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-16 14:21:46.600 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [18ms]
+2023-10-16 14:21:46.618 [info] > git status -z -uall [12ms]
+2023-10-16 14:21:46.618 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-16 14:21:47.243 [info] > git check-ignore -v -z --stdin [7ms]
+2023-10-16 14:21:47.260 [info] > git config --get commit.template [265ms]
+2023-10-16 14:21:47.260 [info] > git rev-parse --show-toplevel [274ms]
+2023-10-16 14:21:47.372 [info] > git rev-parse --show-toplevel [40ms]
+2023-10-16 14:21:47.385 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [15ms]
+2023-10-16 14:21:47.403 [info] > git status -z -uall [9ms]
+2023-10-16 14:21:47.407 [info] > git rev-parse --show-toplevel [23ms]
+2023-10-16 14:21:47.421 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-16 14:21:47.476 [info] > git rev-parse --show-toplevel [30ms]
+2023-10-16 14:21:47.551 [info] > git fetch [1029ms]
+2023-10-16 14:21:47.551 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-16 14:21:47.584 [info] > git config --get commit.template [3ms]
+2023-10-16 14:21:47.652 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [39ms]
+2023-10-16 14:21:47.676 [info] > git status -z -uall [17ms]
+2023-10-16 14:21:48.301 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-16 14:21:55.469 [info] > git checkout -q -- /home/scrviyy/work/LogixBR/front-admin/components/Base/Layout.tsx /home/scrviyy/work/LogixBR/front-admin/pages/dashboard/admin.tsx /home/scrviyy/work/LogixBR/front-admin/pages/dashboard/finance.tsx [7ms]
+2023-10-16 14:21:55.488 [info] > git config --get commit.template [9ms]
+2023-10-16 14:21:55.489 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [1ms]
+2023-10-16 14:21:55.500 [info] > git status -z -uall [1ms]
+2023-10-16 14:21:56.559 [info] > git config --get commit.template [9ms]
+2023-10-16 14:21:56.560 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [1ms]
+2023-10-16 14:21:56.571 [info] > git status -z -uall [2ms]

@@ -1,0 +1,76 @@
+2023-10-16 13:59:45.445 [info] Deleted uninstalled extension from disk enkia.tokyo-night /home/scrviyy/.vscode/extensions/enkia.tokyo-night-1.0.4
+2023-10-16 13:59:45.630 [info] Deleted uninstalled extension from disk pkief.material-icon-theme /home/scrviyy/.vscode/extensions/pkief.material-icon-theme-4.30.1
+2023-10-16 13:59:45.794 [info] Deleted uninstalled extension from disk rangav.vscode-thunder-client /home/scrviyy/.vscode/extensions/rangav.vscode-thunder-client-2.12.7
+2023-10-16 13:59:45.967 [info] Deleted uninstalled extension from disk ms-vscode.vscode-typescript-next /home/scrviyy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20231004
+2023-10-16 13:59:45.995 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/scrviyy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20231004.-578c0d9e.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/scrviyy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20231004.-578c0d9e.vsctmp'
+    at s.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-16 13:59:46.232 [info] Deleted uninstalled extension from disk shd101wyy.markdown-preview-enhanced /home/scrviyy/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.0
+2023-10-16 13:59:46.771 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/scrviyy/.vscode/extensions/ms-python.vscode-pylance-2023.10.10
+2023-10-16 13:59:46.771 [info] Deleted uninstalled extension from disk equinusocio.vsc-material-theme-icons /home/scrviyy/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.1.0
+2023-10-16 13:59:47.219 [info] Deleted uninstalled extension from disk ms-python.python /home/scrviyy/.vscode/extensions/ms-python.python-2023.16.0
+2023-10-16 13:59:49.134 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-10-16 13:59:49.135 [info] Getting Manifest... eamodio.gitlens
+2023-10-16 13:59:49.136 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-10-16 13:59:49.137 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2023-10-16 13:59:49.137 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2023-10-16 13:59:49.189 [info] Installing extension: ms-azuretools.vscode-docker
+2023-10-16 13:59:49.190 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-10-16 13:59:49.198 [info] Installing extension: shd101wyy.markdown-preview-enhanced
+2023-10-16 13:59:49.241 [info] Installing extension: eamodio.gitlens
+2023-10-16 13:59:49.242 [info] Installing extension: ms-vscode.vscode-typescript-next
+2023-10-16 13:59:51.230 [warning] Extension signature verification failed with error 'UnknownError': bradlc.vscode-tailwindcss
+2023-10-16 13:59:51.286 [info] Extracted extension to file:///home/scrviyy/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.1: bradlc.vscode-tailwindcss
+2023-10-16 13:59:51.289 [info] Renamed to /home/scrviyy/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.1
+2023-10-16 13:59:51.290 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-10-16 13:59:51.304 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-10-16 13:59:51.308 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.10.0
+2023-10-16 13:59:51.395 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/scrviyy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/scrviyy/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-16 13:59:51.929 [warning] Extension signature verification failed with error 'UnknownError': ms-azuretools.vscode-docker
+2023-10-16 13:59:51.948 [warning] Extension signature verification failed with error 'UnknownError': shd101wyy.markdown-preview-enhanced
+2023-10-16 13:59:51.951 [warning] Extension signature verification failed with error 'UnknownError': eamodio.gitlens
+2023-10-16 13:59:52.001 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.vscode-typescript-next
+2023-10-16 13:59:52.151 [info] Extracted extension to file:///home/scrviyy/.vscode/extensions/ms-azuretools.vscode-docker-1.27.0: ms-azuretools.vscode-docker
+2023-10-16 13:59:52.160 [info] Renamed to /home/scrviyy/.vscode/extensions/ms-azuretools.vscode-docker-1.27.0
+2023-10-16 13:59:52.167 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-10-16 13:59:52.177 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-10-16 13:59:52.185 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.26.1
+2023-10-16 13:59:52.271 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/scrviyy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/scrviyy/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-16 13:59:52.533 [info] Extracted extension to file:///home/scrviyy/.vscode/extensions/eamodio.gitlens-14.4.0: eamodio.gitlens
+2023-10-16 13:59:52.545 [info] Renamed to /home/scrviyy/.vscode/extensions/eamodio.gitlens-14.4.0
+2023-10-16 13:59:52.550 [info] Extracting extension completed. eamodio.gitlens
+2023-10-16 13:59:52.556 [info] Extracted extension to file:///home/scrviyy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20231015: ms-vscode.vscode-typescript-next
+2023-10-16 13:59:52.560 [info] Extension installed successfully: eamodio.gitlens
+2023-10-16 13:59:52.570 [info] Renamed to /home/scrviyy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20231015
+2023-10-16 13:59:52.571 [info] Marked extension as uninstalled eamodio.gitlens-14.3.0
+2023-10-16 13:59:52.572 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2023-10-16 13:59:52.582 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2023-10-16 13:59:52.586 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.3.20231012
+2023-10-16 13:59:52.624 [info] Extracted extension to file:///home/scrviyy/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.7: shd101wyy.markdown-preview-enhanced
+2023-10-16 13:59:52.627 [info] Renamed to /home/scrviyy/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.7
+2023-10-16 13:59:52.630 [info] Extracting extension completed. shd101wyy.markdown-preview-enhanced
+2023-10-16 13:59:52.631 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/scrviyy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/scrviyy/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-16 13:59:52.665 [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced
+2023-10-16 13:59:52.687 [info] Marked extension as uninstalled shd101wyy.markdown-preview-enhanced-0.8.5

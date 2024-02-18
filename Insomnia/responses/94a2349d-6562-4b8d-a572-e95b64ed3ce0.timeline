@@ -1,0 +1,52 @@
+[
+	{
+		"value": "Preparing request to http://54.80.149.242/api/order",
+		"name": "Text",
+		"timestamp": 1695072312404
+	},
+	{
+		"value": "Current time is 2023-09-18T21:25:12.404Z",
+		"name": "Text",
+		"timestamp": 1695072312404
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1695072312404
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1695072312405
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1695072312405
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1695072312405
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1695072312405
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 54.80.149.242:80...\n",
+		"timestamp": 1695072312406
+	},
+	{
+		"name": "Text",
+		"value": "Connection timed out after 30014 milliseconds\n",
+		"timestamp": 1695072342421
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 4\n",
+		"timestamp": 1695072342421
+	}
+]

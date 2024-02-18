@@ -1,0 +1,17 @@
+[
+	{
+		"value": "Preparing request to http://54.80.149.242/api/dashboard/total-transfers-payed",
+		"name": "Text",
+		"timestamp": 1694699107546
+	},
+	{
+		"value": "Current time is 2023-09-14T13:45:07.546Z",
+		"name": "Text",
+		"timestamp": 1694699107546
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1694699107546
+	}
+]

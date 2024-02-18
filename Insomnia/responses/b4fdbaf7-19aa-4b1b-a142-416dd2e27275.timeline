@@ -1,0 +1,292 @@
+[
+	{
+		"value": "Preparing request to http://xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com/api/shop",
+		"name": "Text",
+		"timestamp": 1694703170348
+	},
+	{
+		"value": "Current time is 2023-09-14T14:52:50.348Z",
+		"name": "Text",
+		"timestamp": 1694703170348
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1694703170348
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1694703170349
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1694703170349
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1694703170349
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1694703170349
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com: 0x34c03377e70 [serially]\n",
+		"timestamp": 1694703170350
+	},
+	{
+		"name": "Text",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1694703170350
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#21) with host xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com\n",
+		"timestamp": 1694703170350
+	},
+	{
+		"name": "Text",
+		"value": "Connected to xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com (3.223.207.144) port 80 (#21)\n",
+		"timestamp": 1694703170350
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/shop HTTP/1.1\r\nHost: xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com\r\nUser-Agent: insomnia/2023.5.8\r\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vNTQuODAuMTQ5LjI0Mi9hcGkvYXV0aC9sb2dpbiIsImlhdCI6MTY5MTcwNjQ2MCwiZXhwIjoxNjkxNzM1MjYwLCJuYmYiOjE2OTE3MDY0NjAsImp0aSI6IjMyUTh6R1I2bW9DeHpZeEIiLCJzdWIiOiIxIiwicHJ2IjoiYTM1NjhkZmYxYWNhZjI5ZDdkYmI2Y2U5NTliYTQ0ZTVmZWI4YzEyOSIsIm5hbWUiOiJUT1QgU3lzdGVtIC0gVGhpbmtPdXRzaWRlIFRlY2hub2xvZ3kiLCJlbWFpbCI6InRvdEBleGFtcGxlLmNvbSJ9.-pi-I2Vv3aO8pXgu-k5oB43mVrarKW8MWKGG-BALqqQ\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1694703170350
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 301 Moved Permanently\r\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Server: awselb/2.0\r\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Thu, 14 Sep 2023 14:52:50 GMT\r\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: text/html\r\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 134\r\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Location: https://xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com:443/api/shop\r\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "Text",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "Text",
+		"value": "Received 134 B chunk",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "Text",
+		"value": "Connection #21 to host xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com left intact\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "Text",
+		"value": "Issue another request to this URL: 'https://xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com:443/api/shop'\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "Text",
+		"value": "Hostname xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com was found in DNS cache\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 3.223.207.144:443...\n",
+		"timestamp": 1694703170490
+	},
+	{
+		"name": "Text",
+		"value": "Connected to xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com (3.223.207.144) port 443 (#23)\n",
+		"timestamp": 1694703170632
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1694703170632
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1694703170632
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.0 (OUT), TLS header, Certificate Status (22):\n",
+		"timestamp": 1694703170668
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1694703170668
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Certificate Status (22):\n",
+		"timestamp": 1694703170810
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1694703170810
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Finished (20):\n",
+		"timestamp": 1694703170810
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703170810
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1694703170810
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703170810
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1694703170810
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703170813
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1694703170813
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703170813
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1694703170813
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Finished (20):\n",
+		"timestamp": 1694703170813
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1694703170813
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": " subject: CN=usexpay.com\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": " start date: Apr 25 00:00:00 2023 GMT\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": " expire date: May 23 23:59:59 2024 GMT\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName does not match xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": "SSL: no alternative certificate subject name matches target host name 'xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com'\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 23\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703170814
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1694703170814
+	}
+]

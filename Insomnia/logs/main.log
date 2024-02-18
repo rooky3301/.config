@@ -1,0 +1,17 @@
+[2023-09-26 10:39:47.811] [info]  Running version 2023.5.8
+[2023-09-26 10:39:47.841] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2023-09-26 10:39:47.867] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2023-09-26 10:39:47.920] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2023-09-26 10:39:48.241] [info]  [fix] Running database repairs
+[2023-09-26 10:39:48.320] [info]  [db] Initialized DB at /home/scrviyy/.config/Insomnia/insomnia.$TYPE.db
+[2023-09-26 10:39:48.320] [info]  [db] Init responses DB
+[2023-09-26 10:39:48.320] [info]  [db] Init websocket-responses DB
+[2023-09-26 10:39:48.322] [info]  [localstorage] Initialized at /home/scrviyy/.config/Insomnia/localStorage
+[2023-09-26 10:39:48.354] [info]  [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+[2023-09-26 10:39:48.368] [info]  [updater] Not supported on this platform linux
+[2023-09-26 10:39:50.044] [info]  Response not OK: 500 for https://ai.insomnia.rest/v1/access
+[2023-09-26 10:39:50.051] [info]  [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+[2023-09-26 10:39:50.054] [info]  [main] Checking for newer version than  2023.5.8
+[2023-09-26 10:39:50.555] [info]  Response not OK: 403 for https://api.insomnia.rest/graphql?projects
+[2023-09-26 10:39:50.651] [info]  [main] No newer version

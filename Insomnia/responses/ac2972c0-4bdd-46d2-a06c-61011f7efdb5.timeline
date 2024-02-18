@@ -1,0 +1,112 @@
+[
+	{
+		"value": "Preparing request to http://50.17.169.68/api/dashboard/total-selling",
+		"name": "Text",
+		"timestamp": 1695130868039
+	},
+	{
+		"value": "Current time is 2023-09-19T13:41:08.039Z",
+		"name": "Text",
+		"timestamp": 1695130868039
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1695130868039
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1695130868042
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1695130868042
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1695130868042
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1695130868042
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 50.17.169.68:80...\n",
+		"timestamp": 1695130868044
+	},
+	{
+		"name": "Text",
+		"value": "Connected to 50.17.169.68 (50.17.169.68) port 80 (#0)\n",
+		"timestamp": 1695130868192
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/dashboard/total-selling HTTP/1.1\r\nHost: 50.17.169.68\r\nUser-Agent: insomnia/2023.5.8\r\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vNTAuMTcuMTY5LjY4L2FwaS9hdXRoL2xvZ2luIiwiaWF0IjoxNjk1MDczMjAzLCJleHAiOjE2OTUxMDIwMDMsIm5iZiI6MTY5NTA3MzIwMywianRpIjoiWXQ3eGhpWmxnQWNoalFCZCIsInN1YiI6IjEiLCJwcnYiOiJhMzU2OGRmZjFhY2FmMjlkN2RiYjZjZTk1OWJhNDRlNWZlYjhjMTI5IiwibmFtZSI6IlRPVCBTeXN0ZW0gLSBUaGlua091dHNpZGUgVGVjaG5vbG9neSIsImVtYWlsIjoidG90QGV4YW1wbGUuY29tIn0.4u2zL-3FrihCpCip54KyOLB3yV2wS5aBMYtd7LYlMqY\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1695130868192
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1695130868446
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 401 Unauthorized\r\n",
+		"timestamp": 1695130868446
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Cache-Control: no-cache, private\r\n",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Tue, 19 Sep 2023 13:41:08 GMT\r\n",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Server: swoole-http-server\r\n",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 30\r\n",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "Text",
+		"value": "Received 30 B chunk",
+		"timestamp": 1695130868447
+	},
+	{
+		"name": "Text",
+		"value": "Connection #0 to host 50.17.169.68 left intact\n",
+		"timestamp": 1695130868448
+	}
+]

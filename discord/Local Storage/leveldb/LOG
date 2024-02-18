@@ -1,0 +1,9 @@
+2023/12/24-20:57:36.695 1657 Reusing MANIFEST /home/scrviyy/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/12/24-20:57:36.696 1657 Recovering log #804
+2023/12/24-20:57:36.696 1657 Reusing old log /home/scrviyy/.config/discord/Local Storage/leveldb/000804.log 
+2023/12/24-21:00:04.804 196f Level-0 table #808: started
+2023/12/24-21:00:04.825 196f Level-0 table #808: 721118 bytes OK
+2023/12/24-21:00:04.828 196f Delete type=0 #804
+2023/12/24-21:01:15.033 196f Level-0 table #810: started
+2023/12/24-21:01:15.049 196f Level-0 table #810: 2039615 bytes OK
+2023/12/24-21:01:15.052 196f Delete type=0 #807

@@ -1,0 +1,4 @@
+2023-10-13 12:04:38.960 [info] update#setState idle
+2023-10-13 12:05:08.964 [info] update#setState checking for updates
+2023-10-13 12:05:08.972 [info] update#setState available for download
+2023-10-13 17:47:02.086 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 24499]: crashed with code 15 and reason 'killed'

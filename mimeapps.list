@@ -1,0 +1,6 @@
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/notion=notion-app.desktop
+
+[Added Associations]
+application/x-zerosize=wine.desktop;

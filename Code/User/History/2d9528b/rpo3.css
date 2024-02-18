@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page-current {
+  @apply z-10 border-indigo-500 bg-indigo-50 text-indigo-600;
+}
+
+.page-option {
+  @apply relative inline-flex items-center border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-500 hover:bg-gray-50;
+}
+
+.grid-auto-fit {
+  grid-template-columns: repeat(auto-fit, minMax(250px, 1fr));
+}
+
+.grid-auto-fit-small {
+  grid-template-columns: repeat(auto-fit, minMax(150px, 1fr));
+}

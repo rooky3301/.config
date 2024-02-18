@@ -1,0 +1,46 @@
+{
+  
+    "workbench.colorTheme": "50 Shades of Purple",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "Iosevka Nerd Font",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 16,
+    "editor.fontWeight": 380,
+    "window.titleBarStyle": "custom",
+    "files.associations": {
+        "*.cs": "csharp"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "vscode-pets.theme": "forest",
+    "vscode-pets.petType": "dog",
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.petColor": "black",
+    "powermode.enabled": true,
+    "powermode.combo.location": "off",
+    "explorer.confirmDragAndDrop": false,
+    "editor.codeLensFontFamily": "Cartograph CF Light Italic",
+    "terminal.integrated.fontFamily": "Cartograph CF Light Italic",
+    "terminal.integrated.fontSize": 14,
+    "editor.cursorBlinking": "expand",
+    "explorer.confirmDelete": false,
+    
+    
+    "editor.formatOnType": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.cursorBlinking": true,
+    "git.autofetch": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "git.confirmSync": false,
+    "eslint.format.enable": true,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.preferences.quoteStyle": "double",
+    "typescript.preferences.quoteStyle": "double",
+    "editor.minimap.enabled": false,
+    "powermode.shake.enabled": false,
+    "synthwave84.disableGlow": true,
+    "material-icon-theme.activeIconPack": "vue",
+  }

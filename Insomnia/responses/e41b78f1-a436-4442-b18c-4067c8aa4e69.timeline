@@ -1,0 +1,47 @@
+[
+	{
+		"value": "Preparing request to http://xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws/api/withdraw",
+		"name": "Text",
+		"timestamp": 1695072135253
+	},
+	{
+		"value": "Current time is 2023-09-18T21:22:15.253Z",
+		"name": "Text",
+		"timestamp": 1695072135253
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1695072135253
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1695072135259
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1695072135259
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1695072135259
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1695072135259
+	},
+	{
+		"name": "Text",
+		"value": "Could not resolve host: xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws\n",
+		"timestamp": 1695072156322
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 0\n",
+		"timestamp": 1695072156322
+	}
+]

@@ -1,0 +1,197 @@
+[
+	{
+		"value": "Preparing request to https://xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com/api/shop",
+		"name": "Text",
+		"timestamp": 1694703046384
+	},
+	{
+		"value": "Current time is 2023-09-14T14:50:46.384Z",
+		"name": "Text",
+		"timestamp": 1694703046384
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1694703046384
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1694703046385
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1694703046385
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1694703046385
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1694703046385
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 3.223.207.144:443...\n",
+		"timestamp": 1694703046402
+	},
+	{
+		"name": "Text",
+		"value": "Connected to xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com (3.223.207.144) port 443 (#17)\n",
+		"timestamp": 1694703046544
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1694703046549
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1694703046549
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.0 (OUT), TLS header, Certificate Status (22):\n",
+		"timestamp": 1694703046582
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1694703046582
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Certificate Status (22):\n",
+		"timestamp": 1694703046724
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1694703046724
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Finished (20):\n",
+		"timestamp": 1694703046725
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703046725
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1694703046725
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703046725
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1694703046726
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703046729
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1694703046729
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703046729
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Finished (20):\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": " subject: CN=usexpay.com\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": " start date: Apr 25 00:00:00 2023 GMT\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": " expire date: May 23 23:59:59 2024 GMT\n",
+		"timestamp": 1694703046730
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName does not match xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com\n",
+		"timestamp": 1694703046731
+	},
+	{
+		"name": "Text",
+		"value": "SSL: no alternative certificate subject name matches target host name 'xpay-gateway-prod-lb-857021121.us-east-1.elb.amazonaws.com'\n",
+		"timestamp": 1694703046731
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 17\n",
+		"timestamp": 1694703046731
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Supplemental data (23):\n",
+		"timestamp": 1694703046731
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1694703046731
+	}
+]

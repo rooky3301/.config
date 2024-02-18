@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/scrviyy/Trabalho/XPay/xpaycheckout-app","configPath":"/home/scrviyy/Trabalho/XPay/xpaycheckout-app/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/scrviyy/Trabalho/XPay/xpaycheckout-app/tailwind.config.js","priority":0},{"pattern":"/home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/**/*.{js,ts,jsx,tsx,mdx}","priority":1},{"pattern":"/home/scrviyy/Trabalho/XPay/xpaycheckout-app/components/**/*.{js,ts,jsx,tsx,mdx}","priority":1},{"pattern":"/home/scrviyy/Trabalho/XPay/xpaycheckout-app/app/**/*.{js,ts,jsx,tsx,mdx}","priority":1},{"pattern":"/home/scrviyy/Trabalho/XPay/xpaycheckout-app/**","priority":3}]}]
+[Global] Adding watch patterns: /home/scrviyy/Trabalho/XPay/xpaycheckout-app/tailwind.config.js, /home/scrviyy/Trabalho/XPay/xpaycheckout-app
+[tailwind.config.js] Initializing...
+[tailwind.config.js] Loaded Tailwind CSS config file: /home/scrviyy/Trabalho/XPay/xpaycheckout-app/tailwind.config.js
+[tailwind.config.js] Loaded postcss v8.4.23: /home/scrviyy/Trabalho/XPay/xpaycheckout-app/node_modules/postcss
+[tailwind.config.js] Loaded tailwindcss v3.3.2: /home/scrviyy/Trabalho/XPay/xpaycheckout-app/node_modules/tailwindcss
+[tailwind.config.js] Building...

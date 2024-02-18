@@ -1,0 +1,142 @@
+[
+	{
+		"value": "Preparing request to http://50.17.169.68/api/dashboard/total-transfers-payed",
+		"name": "Text",
+		"timestamp": 1695325675226
+	},
+	{
+		"value": "Current time is 2023-09-21T19:47:55.226Z",
+		"name": "Text",
+		"timestamp": 1695325675226
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1695325675226
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1695325675227
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1695325675227
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1695325675227
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1695325675227
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (687 seconds), disconnect it\n",
+		"timestamp": 1695325675228
+	},
+	{
+		"name": "Text",
+		"value": "Connection 1 seems to be dead!\n",
+		"timestamp": 1695325675228
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 1\n",
+		"timestamp": 1695325675228
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1695325675228
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 50.17.169.68:80...\n",
+		"timestamp": 1695325675228
+	},
+	{
+		"name": "Text",
+		"value": "Connected to 50.17.169.68 (50.17.169.68) port 80 (#2)\n",
+		"timestamp": 1695325675377
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/dashboard/total-transfers-payed HTTP/1.1\r\nHost: 50.17.169.68\r\nUser-Agent: insomnia/2023.5.8\r\nAuthorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vNTAuMTcuMTY5LjY4L2FwaS9hdXRoL2xvZ2luIiwiaWF0IjoxNjk1MzI0OTY1LCJleHAiOjE2OTUzNTM3NjUsIm5iZiI6MTY5NTMyNDk2NSwianRpIjoiV2U1d0Y3T1RFVVRPZzBCRCIsInN1YiI6IjEiLCJwcnYiOiJhMzU2OGRmZjFhY2FmMjlkN2RiYjZjZTk1OWJhNDRlNWZlYjhjMTI5IiwibmFtZSI6IlRPVCBTeXN0ZW0gLSBUaGlua091dHNpZGUgVGVjaG5vbG9neSIsImVtYWlsIjoidG90QGV4YW1wbGUuY29tIn0.z3J3Vx-dkGsUCAURVYyKxfHqIJCi5GdlZGgJRuMYba8\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1695325675377
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Cache-Control: no-cache, private\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Thu, 21 Sep 2023 19:47:55 GMT\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Ratelimit-Limit: 1000\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Ratelimit-Remaining: 999\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Server: swoole-http-server\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 37\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "Text",
+		"value": "Received 37 B chunk",
+		"timestamp": 1695325675537
+	},
+	{
+		"name": "Text",
+		"value": "Connection #2 to host 50.17.169.68 left intact\n",
+		"timestamp": 1695325675537
+	}
+]

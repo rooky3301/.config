@@ -1,0 +1,50 @@
+2023-09-30 11:40:58.807 [info] Log level: Info
+2023-09-30 11:40:58.807 [info] Validating found git in: "git"
+2023-09-30 11:40:58.807 [info] Using git "2.42.0" from "git"
+2023-09-30 11:40:58.807 [info] > git rev-parse --show-toplevel [10ms]
+2023-09-30 11:40:58.807 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-09-30 11:40:58.807 [info] Open repository: /home/scrviyy/Trabalho/XPay/landing-page
+2023-09-30 11:40:58.824 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-30 11:40:58.825 [info] > git config --get commit.template [10ms]
+2023-09-30 11:40:58.873 [info] > git rev-parse --show-toplevel [17ms]
+2023-09-30 11:40:58.889 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [19ms]
+2023-09-30 11:40:58.900 [info] > git status -z -uall [3ms]
+2023-09-30 11:40:58.901 [info] > git rev-parse --show-toplevel [14ms]
+2023-09-30 11:40:58.935 [info] > git rev-parse --show-toplevel [21ms]
+2023-09-30 11:40:58.939 [info] > git config --get commit.template [4ms]
+2023-09-30 11:40:58.950 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [6ms]
+2023-09-30 11:40:58.979 [info] > git status -z -uall [23ms]
+2023-09-30 11:40:59.514 [info] > git check-ignore -v -z --stdin [3ms]
+2023-09-30 11:41:02.661 [info] > git fetch [981ms]
+2023-09-30 11:41:02.661 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-09-30 11:41:02.675 [info] > git config --get commit.template [7ms]
+2023-09-30 11:41:02.676 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [1ms]
+2023-09-30 11:41:02.684 [info] > git status -z -uall [2ms]
+2023-09-30 11:48:43.347 [info] > git fetch [973ms]
+2023-09-30 11:48:43.347 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-09-30 11:48:43.360 [info] > git config --get commit.template [7ms]
+2023-09-30 11:48:43.360 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [1ms]
+2023-09-30 11:48:43.369 [info] > git status -z -uall [2ms]
+2023-09-30 11:51:49.976 [info] > git fetch [5968ms]
+2023-09-30 11:51:49.977 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-09-30 11:51:49.990 [info] > git config --get commit.template [7ms]
+2023-09-30 11:51:49.990 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [1ms]
+2023-09-30 11:51:49.999 [info] > git status -z -uall [2ms]

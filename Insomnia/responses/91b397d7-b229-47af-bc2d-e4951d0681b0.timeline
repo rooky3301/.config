@@ -1,0 +1,127 @@
+[
+	{
+		"value": "Preparing request to http://50.17.169.68/api/auth/login",
+		"name": "Text",
+		"timestamp": 1695653259164
+	},
+	{
+		"value": "Current time is 2023-09-25T14:47:39.164Z",
+		"name": "Text",
+		"timestamp": 1695653259164
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1695653259164
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1695653259167
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1695653259167
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1695653259167
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1695653259167
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 50.17.169.68:80...\n",
+		"timestamp": 1695653259168
+	},
+	{
+		"name": "Text",
+		"value": "Connected to 50.17.169.68 (50.17.169.68) port 80 (#0)\n",
+		"timestamp": 1695653259316
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /api/auth/login HTTP/1.1\r\nHost: 50.17.169.68\r\nUser-Agent: insomnia/2023.5.8\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 58\r\n\r\n",
+		"timestamp": 1695653259316
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n\t\"email\": \"tot@example.com\",\n\t\"password\": \"1234567890\"\n}",
+		"timestamp": 1695653259316
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1695653259870
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1695653259870
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Cache-Control: no-cache, private\r\n",
+		"timestamp": 1695653259870
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Mon, 25 Sep 2023 14:47:39 GMT\r\n",
+		"timestamp": 1695653259870
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Ratelimit-Limit: 1000\r\n",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Ratelimit-Remaining: 999\r\n",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Server: swoole-http-server\r\n",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 514\r\n",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "Text",
+		"value": "Received 514 B chunk",
+		"timestamp": 1695653259871
+	},
+	{
+		"name": "Text",
+		"value": "Connection #0 to host 50.17.169.68 left intact\n",
+		"timestamp": 1695653259871
+	}
+]

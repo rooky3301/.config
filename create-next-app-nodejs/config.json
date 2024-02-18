@@ -1,0 +1,7 @@
+{
+	"preferences": {
+		"tailwind": true,
+		"srcDir": false,
+		"importAlias": "@/*"
+	}
+}

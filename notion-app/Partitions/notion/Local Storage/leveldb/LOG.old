@@ -1,0 +1,5 @@
+2023/12/24-18:24:19.358 2472d Reusing MANIFEST /home/scrviyy/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2023/12/24-18:24:19.359 2472d Recovering log #130
+2023/12/24-18:24:19.366 2472d Level-0 table #133: started
+2023/12/24-18:24:19.376 2472d Level-0 table #133: 575748 bytes OK
+2023/12/24-18:24:19.378 2472d Delete type=0 #130

@@ -1,0 +1,67 @@
+[
+	{
+		"value": "Preparing request to http://localhost:8089/api/dashboard/total-transfers-payed",
+		"name": "Text",
+		"timestamp": 1695072240319
+	},
+	{
+		"value": "Current time is 2023-09-18T21:24:00.319Z",
+		"name": "Text",
+		"timestamp": 1695072240319
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1695072240319
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1695072240320
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1695072240320
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1695072240320
+	},
+	{
+		"value": "Enable cookie sending with jar of 8 cookies",
+		"name": "Text",
+		"timestamp": 1695072240320
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:8089...\n",
+		"timestamp": 1695072240320
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 8089 failed: Connection refused\n",
+		"timestamp": 1695072240320
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:8089...\n",
+		"timestamp": 1695072240320
+	},
+	{
+		"name": "Text",
+		"value": "connect to ::1 port 8089 failed: Connection refused\n",
+		"timestamp": 1695072240320
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 8089 after 0 ms: Connection refused\n",
+		"timestamp": 1695072240320
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 2\n",
+		"timestamp": 1695072240320
+	}
+]

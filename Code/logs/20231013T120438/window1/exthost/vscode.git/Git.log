@@ -1,0 +1,50 @@
+2023-10-13 12:04:45.308 [info] Log level: Info
+2023-10-13 12:04:45.308 [info] Validating found git in: "git"
+2023-10-13 12:04:45.308 [info] Using git "2.42.0" from "git"
+2023-10-13 12:04:45.308 [info] > git rev-parse --show-toplevel [24ms]
+2023-10-13 12:04:45.308 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-10-13 12:04:45.308 [info] Open repository: /home/scrviyy/Trabalho/LogixBR/main_server
+2023-10-13 12:04:45.309 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 12:04:45.310 [info] > git config --get commit.template [10ms]
+2023-10-13 12:04:45.330 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [2ms]
+2023-10-13 12:04:45.339 [info] > git rev-parse --show-toplevel [20ms]
+2023-10-13 12:04:45.349 [info] > git status -z -uall [10ms]
+2023-10-13 12:04:45.385 [info] > git rev-parse --show-toplevel [36ms]
+2023-10-13 12:04:45.394 [info] > git config --get commit.template [9ms]
+2023-10-13 12:04:45.406 [info] > git rev-parse --show-toplevel [13ms]
+2023-10-13 12:04:45.420 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [7ms]
+2023-10-13 12:04:45.429 [info] > git rev-parse --show-toplevel [10ms]
+2023-10-13 12:04:45.437 [info] > git status -z -uall [9ms]
+2023-10-13 12:04:45.441 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-13 12:04:45.449 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 12:04:45.901 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-13 12:04:46.271 [info] > git fetch [981ms]
+2023-10-13 12:04:46.271 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-13 12:04:46.285 [info] > git config --get commit.template [6ms]
+2023-10-13 12:04:46.285 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [1ms]
+2023-10-13 12:04:46.295 [info] > git status -z -uall [2ms]
+2023-10-13 12:04:48.812 [info] > git check-ignore -v -z --stdin [48ms]
+2023-10-13 12:04:50.143 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-13 12:04:53.370 [info] > git show --textconv :src/dashboard/dashboard.controller.ts [36ms]
+2023-10-13 12:04:53.374 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/LogixBR/main_server/src/dashboard/dashboard.controller.ts [20ms]
+2023-10-13 12:04:53.412 [info] > git cat-file -s 61b51c8fb546c927820fccb457b9a33ab286851b [18ms]
+2023-10-13 13:21:51.620 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/LogixBR/main_server/src/dashboard/dashboard.controller.ts [3ms]
+2023-10-13 13:21:51.632 [info] > git cat-file -s 61b51c8fb546c927820fccb457b9a33ab286851b [2ms]
+2023-10-13 13:21:51.644 [info] > git show --textconv :src/dashboard/dashboard.controller.ts [1ms]
+2023-10-13 13:21:52.503 [info] > git fetch [2087ms]
+2023-10-13 13:21:52.503 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-13 13:21:52.520 [info] > git config --get commit.template [9ms]
+2023-10-13 13:21:52.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [1ms]
+2023-10-13 13:21:52.531 [info] > git status -z -uall [2ms]

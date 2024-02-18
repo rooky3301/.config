@@ -1,0 +1,122 @@
+2023-10-16 13:59:50.061 [info] Log level: Info
+2023-10-16 13:59:50.061 [info] Validating found git in: "git"
+2023-10-16 13:59:50.061 [info] Using git "2.42.0" from "git"
+2023-10-16 13:59:50.061 [info] > git rev-parse --show-toplevel [148ms]
+2023-10-16 13:59:50.061 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2023-10-16 13:59:50.061 [info] Open repository: /home/scrviyy/work/LogixBR/main_server
+2023-10-16 13:59:50.084 [info] > git config --get commit.template [12ms]
+2023-10-16 13:59:50.085 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-16 13:59:50.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [13ms]
+2023-10-16 13:59:50.120 [info] > git status -z -uall [2ms]
+2023-10-16 13:59:50.121 [info] > git rev-parse --show-toplevel [14ms]
+2023-10-16 13:59:50.172 [info] > git rev-parse --show-toplevel [24ms]
+2023-10-16 13:59:50.185 [info] > git config --get commit.template [13ms]
+2023-10-16 13:59:50.193 [info] > git rev-parse --show-toplevel [8ms]
+2023-10-16 13:59:50.202 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [10ms]
+2023-10-16 13:59:50.211 [info] > git rev-parse --show-toplevel [8ms]
+2023-10-16 13:59:50.220 [info] > git status -z -uall [11ms]
+2023-10-16 13:59:50.224 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-16 13:59:50.235 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-16 13:59:50.759 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-16 13:59:51.117 [info] > git fetch [1059ms]
+2023-10-16 13:59:51.117 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-16 13:59:51.131 [info] > git config --get commit.template [8ms]
+2023-10-16 13:59:51.132 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [2ms]
+2023-10-16 13:59:51.140 [info] > git status -z -uall [1ms]
+2023-10-16 13:59:57.612 [info] > git config --get commit.template [8ms]
+2023-10-16 13:59:57.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [2ms]
+2023-10-16 13:59:57.636 [info] > git status -z -uall [16ms]
+2023-10-16 14:00:13.704 [info] > git config --get commit.template [9ms]
+2023-10-16 14:00:13.704 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [2ms]
+2023-10-16 14:00:13.714 [info] > git status -z -uall [2ms]
+2023-10-16 14:00:16.199 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-16 14:00:23.945 [info] > git checkout -q -- /home/scrviyy/work/LogixBR/main_server/src/tasks/tasks.service.ts [7ms]
+2023-10-16 14:00:23.963 [info] > git config --get commit.template [10ms]
+2023-10-16 14:00:23.964 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [2ms]
+2023-10-16 14:00:23.972 [info] > git status -z -uall [2ms]
+2023-10-16 14:00:25.811 [info] > git config --get commit.template [10ms]
+2023-10-16 14:00:25.814 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/refactory refs/remotes/refactory [4ms]
+2023-10-16 14:00:25.823 [info] > git status -z -uall [2ms]
+2023-10-16 14:00:28.980 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-16 14:00:37.483 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-16 14:00:40.238 [info] > git show --textconv :src/dashboard/dashboard.service.ts [18ms]
+2023-10-16 14:00:40.239 [info] > git ls-files --stage -- /home/scrviyy/work/LogixBR/main_server/src/dashboard/dashboard.service.ts [3ms]
+2023-10-16 14:00:40.257 [info] > git cat-file -s 5109ec9ebc6fabbb642ed4b31dfddf5071302ba8 [3ms]
+2023-10-16 14:01:30.485 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-10-16 14:01:31.702 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-10-16 14:02:09.850 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-10-16 14:02:11.953 [info] > git checkout -q master [11ms]
+2023-10-16 14:02:11.971 [info] > git config --get commit.template [8ms]
+2023-10-16 14:02:11.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-10-16 14:02:11.984 [info] > git status -z -uall [3ms]
+2023-10-16 14:02:13.059 [info] > git config --get commit.template [16ms]
+2023-10-16 14:02:13.063 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-10-16 14:02:13.078 [info] > git status -z -uall [4ms]
+2023-10-16 14:02:13.145 [info] > git ls-files --stage -- /home/scrviyy/work/LogixBR/main_server/src/dashboard/dashboard.service.ts [1ms]
+2023-10-16 14:02:13.154 [info] > git cat-file -s 6782a7192178e4bdc998478add8f1ad5e1c74207 [2ms]
+2023-10-16 14:02:13.166 [info] > git show --textconv :src/dashboard/dashboard.service.ts [2ms]
+2023-10-16 14:02:13.686 [info] > git log --oneline --cherry master...master@{upstream} -- [12ms]
+2023-10-16 14:02:14.956 [info] > git ls-files --stage -- /home/scrviyy/work/LogixBR/main_server/src/dashboard/dashboard.service.ts [2ms]
+2023-10-16 14:02:14.966 [info] > git cat-file -s 6782a7192178e4bdc998478add8f1ad5e1c74207 [1ms]
+2023-10-16 14:02:14.978 [info] > git show --textconv :src/dashboard/dashboard.service.ts [2ms]
+2023-10-16 14:02:19.753 [info] > git pull --tags origin master [6053ms]
+2023-10-16 14:02:19.753 [info] From github.com:LogixBR/main_server
+ * branch            master     -> FETCH_HEAD
+2023-10-16 14:02:19.767 [info] > git config --get commit.template [7ms]
+2023-10-16 14:02:19.767 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-16 14:02:19.778 [info] > git status -z -uall [3ms]
+2023-10-16 14:02:19.794 [info] > git config --get commit.template [1ms]
+2023-10-16 14:02:19.802 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-16 14:02:19.813 [info] > git status -z -uall [3ms]
+2023-10-16 14:02:20.993 [info] > git ls-files --stage -- /home/scrviyy/work/LogixBR/main_server/src/dashboard/dashboard.service.ts [2ms]
+2023-10-16 14:02:21.002 [info] > git cat-file -s 839750439e22ef4edea1ec57aa5bd07cd7adc561 [1ms]
+2023-10-16 14:02:21.018 [info] > git show --textconv :src/dashboard/dashboard.service.ts [2ms]
+2023-10-16 14:02:24.831 [info] > git config --get commit.template [8ms]
+2023-10-16 14:02:24.832 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-16 14:02:24.843 [info] > git status -z -uall [3ms]
+2023-10-16 14:02:27.750 [info] > git show --textconv :src/dashboard/dashboard.controller.ts [9ms]
+2023-10-16 14:02:27.751 [info] > git ls-files --stage -- /home/scrviyy/work/LogixBR/main_server/src/dashboard/dashboard.controller.ts [1ms]
+2023-10-16 14:02:27.763 [info] > git cat-file -s 208b9890be254c631b61a8087dde0946ee972acf [2ms]
+2023-10-16 14:02:29.866 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-16 14:02:29.866 [info] > git config --get commit.template [9ms]
+2023-10-16 14:02:29.877 [info] > git status -z -uall [3ms]
+2023-10-16 14:21:57.730 [info] > git config --get commit.template [11ms]
+2023-10-16 14:21:57.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-10-16 14:21:57.748 [info] > git ls-files --stage -- /home/scrviyy/work/LogixBR/main_server/src/dashboard/dashboard.controller.ts [10ms]
+2023-10-16 14:21:57.755 [info] > git status -z -uall [9ms]
+2023-10-16 14:21:57.757 [info] > git cat-file -s 208b9890be254c631b61a8087dde0946ee972acf [3ms]
+2023-10-16 14:21:57.767 [info] > git show --textconv :src/dashboard/dashboard.controller.ts [1ms]
+2023-10-16 14:21:58.691 [info] > git fetch [984ms]
+2023-10-16 14:21:58.691 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-16 14:21:58.706 [info] > git config --get commit.template [8ms]
+2023-10-16 14:21:58.707 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-16 14:21:58.715 [info] > git status -z -uall [2ms]
+2023-10-16 14:52:53.197 [info] > git ls-files --stage -- /home/scrviyy/work/LogixBR/main_server/src/dashboard/dashboard.controller.ts [2ms]
+2023-10-16 14:52:53.206 [info] > git cat-file -s 208b9890be254c631b61a8087dde0946ee972acf [2ms]
+2023-10-16 14:52:53.215 [info] > git show --textconv :src/dashboard/dashboard.controller.ts [1ms]
+2023-10-16 14:52:54.190 [info] > git fetch [1021ms]
+2023-10-16 14:52:54.190 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-16 14:52:54.204 [info] > git config --get commit.template [7ms]
+2023-10-16 14:52:54.205 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-16 14:52:54.214 [info] > git status -z -uall [2ms]
+2023-10-16 14:52:54.355 [info] > git ls-files --stage -- /home/scrviyy/work/LogixBR/main_server/src/dashboard/dashboard.controller.ts [1ms]
+2023-10-16 14:52:54.363 [info] > git cat-file -s 208b9890be254c631b61a8087dde0946ee972acf [1ms]
+2023-10-16 14:52:54.372 [info] > git show --textconv :src/dashboard/dashboard.controller.ts [2ms]

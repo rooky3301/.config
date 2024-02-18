@@ -1,0 +1,20 @@
+2023/09/14-10:38:02.975 cd5e Creating DB /home/scrviyy/.config/Postman/Partitions/889a551a-007e-4e2f-b963-1e5d22d96a45/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb since it was missing.
+2023/09/14-10:38:02.983 cd5e Reusing MANIFEST /home/scrviyy/.config/Postman/Partitions/889a551a-007e-4e2f-b963-1e5d22d96a45/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/14-10:38:02.990 cfe7 Level-0 table #5: started
+2023/09/14-10:38:02.991 cfe7 Level-0 table #5: 2186 bytes OK
+2023/09/14-10:38:02.993 cfe7 Delete type=0 #3
+2023/09/14-10:38:02.994 cfe7 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/14-10:38:03.467 cfe7 Level-0 table #7: started
+2023/09/14-10:38:03.468 cfe7 Level-0 table #7: 2045 bytes OK
+2023/09/14-10:38:03.470 cfe7 Delete type=0 #4
+2023/09/14-10:38:03.470 cfe7 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/14-10:38:03.473 cfe7 Level-0 table #9: started
+2023/09/14-10:38:03.475 cfe7 Level-0 table #9: 507 bytes OK
+2023/09/14-10:38:03.477 cfe7 Delete type=0 #6
+2023/09/14-10:38:03.477 cfe7 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 283 : 1
+2023/09/14-10:38:03.477 cfe7 Compacting 1@0 + 1@1 files
+2023/09/14-10:38:03.478 cfe7 Generated table #10@0: 111 keys, 1642 bytes
+2023/09/14-10:38:03.478 cfe7 Compacted 1@0 + 1@1 files => 1642 bytes
+2023/09/14-10:38:03.480 cfe7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/14-10:38:03.480 cfe7 Delete type=2 #9
+2023/09/14-10:38:03.480 cfe7 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 283 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

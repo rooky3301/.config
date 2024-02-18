@@ -1,0 +1,159 @@
+2023-10-05 16:53:31.000 [info] Log level: Info
+2023-10-05 16:53:31.000 [info] Validating found git in: "git"
+2023-10-05 16:53:31.000 [info] Using git "2.42.0" from "git"
+2023-10-05 16:53:31.000 [info] > git rev-parse --show-toplevel [8ms]
+2023-10-05 16:53:31.001 [info] > git rev-parse --git-dir --git-common-dir [17ms]
+2023-10-05 16:53:31.029 [info] Open repository: /home/scrviyy/Trabalho/XPay/xpaycheckout-app
+2023-10-05 16:53:31.070 [info] > git rev-parse --show-toplevel [7ms]
+2023-10-05 16:53:31.071 [info] > git config --get commit.template [29ms]
+2023-10-05 16:53:31.117 [info] > git rev-parse --show-toplevel [18ms]
+2023-10-05 16:53:31.128 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [16ms]
+2023-10-05 16:53:31.145 [info] > git rev-parse --show-toplevel [18ms]
+2023-10-05 16:53:31.649 [info] > git status -z -uall [506ms]
+2023-10-05 16:53:31.649 [info] > git check-ignore -v -z --stdin [16ms]
+2023-10-05 16:53:31.995 [info] > git rev-parse --show-toplevel [349ms]
+2023-10-05 16:53:32.050 [info] > git config --get commit.template [96ms]
+2023-10-05 16:53:32.057 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-05 16:53:32.095 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [25ms]
+2023-10-05 16:53:32.128 [info] > git status -z -uall [23ms]
+2023-10-05 16:53:32.134 [info] > git rev-parse --show-toplevel [53ms]
+2023-10-05 16:53:32.196 [info] > git fetch [1168ms]
+2023-10-05 16:53:32.196 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-05 16:53:32.256 [info] > git rev-parse --show-toplevel [61ms]
+2023-10-05 16:53:32.280 [info] > git config --get commit.template [25ms]
+2023-10-05 16:53:32.283 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-05 16:53:32.349 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [57ms]
+2023-10-05 16:53:32.361 [info] > git rev-parse --show-toplevel [59ms]
+2023-10-05 16:53:32.372 [info] > git status -z -uall [14ms]
+2023-10-05 16:53:32.405 [info] > git rev-parse --show-toplevel [33ms]
+2023-10-05 16:53:33.156 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-05 16:53:34.283 [info] > git show --textconv :pages/auth/register.tsx [21ms]
+2023-10-05 16:53:34.283 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [7ms]
+2023-10-05 16:53:34.297 [info] > git cat-file -s 115333f78261065319a13dab0bb0f52abc039f80 [3ms]
+2023-10-05 16:53:51.853 [info] > git add -A -- . [7ms]
+2023-10-05 16:53:51.872 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [10ms]
+2023-10-05 16:53:51.881 [info] > git config --get commit.template [1ms]
+2023-10-05 16:53:51.891 [info] > git config --get commit.template [2ms]
+2023-10-05 16:53:51.902 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [2ms]
+2023-10-05 16:53:51.912 [info] > git status -z -uall [2ms]
+2023-10-05 16:53:52.004 [info] > git config --get commit.template [5ms]
+2023-10-05 16:53:52.013 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [1ms]
+2023-10-05 16:53:52.023 [info] > git status -z -uall [2ms]
+2023-10-05 16:53:52.702 [info] > git log --oneline --cherry dev...dev@{upstream} -- [2ms]
+2023-10-05 16:53:53.910 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [2ms]
+2023-10-05 16:53:53.925 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [2ms]
+2023-10-05 16:53:53.939 [info] > git show --textconv :pages/auth/register.tsx [1ms]
+2023-10-05 16:53:56.865 [info] > git pull --tags origin dev [4153ms]
+2023-10-05 16:53:56.865 [info] From github.com:xpay-org/xpaycheckout-app
+ * branch            dev        -> FETCH_HEAD
+2023-10-05 17:13:20.640 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [1ms]
+2023-10-05 17:13:20.648 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [1ms]
+2023-10-05 17:13:20.658 [info] > git show --textconv :pages/auth/register.tsx [1ms]
+2023-10-05 17:13:28.116 [info] > git push origin dev:dev [1171242ms]
+2023-10-05 17:13:28.116 [info] Received disconnect from 20.201.28.151 port 22:11: Bye Bye
+Disconnected from 20.201.28.151 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-05 17:13:28.133 [info] > git config --get commit.template [8ms]
+2023-10-05 17:13:28.134 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [2ms]
+2023-10-05 17:13:28.142 [info] > git status -z -uall [1ms]
+2023-10-05 17:13:28.774 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-05 17:13:29.314 [info] > git fetch [1162ms]
+2023-10-05 17:13:29.314 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-05 17:13:29.328 [info] > git config --get commit.template [8ms]
+2023-10-05 17:13:29.328 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [1ms]
+2023-10-05 17:13:29.336 [info] > git status -z -uall [1ms]
+2023-10-05 17:13:31.074 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [1ms]
+2023-10-05 17:13:31.082 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [1ms]
+2023-10-05 17:13:31.092 [info] > git show --textconv :pages/auth/register.tsx [1ms]
+2023-10-05 17:13:43.051 [info] > git add -A -- . [6ms]
+2023-10-05 17:13:43.064 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [6ms]
+2023-10-05 17:13:43.077 [info] > git config --get commit.template [6ms]
+2023-10-05 17:13:43.088 [info] > git config --get commit.template [3ms]
+2023-10-05 17:13:43.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [3ms]
+2023-10-05 17:13:43.110 [info] > git status -z -uall [2ms]
+2023-10-05 17:13:43.166 [info] > git config --get commit.template [2ms]
+2023-10-05 17:13:43.174 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [1ms]
+2023-10-05 17:13:43.183 [info] > git status -z -uall [2ms]
+2023-10-05 17:13:43.890 [info] > git log --oneline --cherry dev...dev@{upstream} -- [1ms]
+2023-10-05 17:13:45.097 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [1ms]
+2023-10-05 17:13:45.105 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [1ms]
+2023-10-05 17:13:45.114 [info] > git show --textconv :pages/auth/register.tsx [1ms]
+2023-10-05 17:13:48.141 [info] > git pull --tags origin dev [4242ms]
+2023-10-05 17:13:48.141 [info] From github.com:xpay-org/xpaycheckout-app
+ * branch            dev        -> FETCH_HEAD
+2023-10-05 17:13:49.388 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [2ms]
+2023-10-05 17:13:49.403 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [2ms]
+2023-10-05 17:13:49.413 [info] > git show --textconv :pages/auth/register.tsx [1ms]
+2023-10-05 17:13:53.226 [info] > git push origin dev:dev [5072ms]
+2023-10-05 17:13:53.227 [info] To github.com:xpay-org/xpaycheckout-app.git
+   ff4959b..faab60e  dev -> dev
+2023-10-05 17:13:53.243 [info] > git config --get commit.template [3ms]
+2023-10-05 17:13:53.255 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [2ms]
+2023-10-05 17:13:53.266 [info] > git status -z -uall [2ms]
+2023-10-05 17:13:54.344 [info] > git config --get commit.template [10ms]
+2023-10-05 17:13:54.345 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [1ms]
+2023-10-05 17:13:54.353 [info] > git status -z -uall [1ms]
+2023-10-05 17:13:54.427 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [1ms]
+2023-10-05 17:13:54.435 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [1ms]
+2023-10-05 17:13:54.444 [info] > git show --textconv :pages/auth/register.tsx [1ms]
+2023-10-05 17:32:12.567 [info] > git config --get commit.template [10ms]
+2023-10-05 17:32:12.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [1ms]
+2023-10-05 17:32:12.578 [info] > git status -z -uall [2ms]
+2023-10-05 17:32:13.224 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-05 17:32:13.517 [info] > git fetch [968ms]
+2023-10-05 17:32:13.517 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-10-05 17:32:13.533 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [2ms]
+2023-10-05 17:32:13.533 [info] > git config --get commit.template [9ms]
+2023-10-05 17:32:13.541 [info] > git status -z -uall [1ms]
+2023-10-05 17:32:13.739 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [2ms]
+2023-10-05 17:32:13.750 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [1ms]
+2023-10-05 17:32:13.761 [info] > git show --textconv :pages/auth/register.tsx [2ms]
+2023-10-05 17:32:17.611 [info] > git config --get commit.template [13ms]
+2023-10-05 17:32:17.612 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [2ms]
+2023-10-05 17:32:17.622 [info] > git status -z -uall [2ms]
+2023-10-05 17:32:25.721 [info] > git add -A -- . [7ms]
+2023-10-05 17:32:25.735 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [5ms]
+2023-10-05 17:32:25.747 [info] > git config --get commit.template [2ms]
+2023-10-05 17:32:25.760 [info] > git config --get commit.template [1ms]
+2023-10-05 17:32:25.772 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [2ms]
+2023-10-05 17:32:25.784 [info] > git status -z -uall [2ms]
+2023-10-05 17:32:25.889 [info] > git config --get commit.template [1ms]
+2023-10-05 17:32:25.900 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [2ms]
+2023-10-05 17:32:25.911 [info] > git status -z -uall [2ms]
+2023-10-05 17:32:26.421 [info] > git log --oneline --cherry dev...dev@{upstream} -- [1ms]
+2023-10-05 17:32:27.628 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [2ms]
+2023-10-05 17:32:27.642 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [2ms]
+2023-10-05 17:32:27.653 [info] > git show --textconv :pages/auth/register.tsx [1ms]
+2023-10-05 17:32:31.609 [info] > git pull --tags origin dev [5179ms]
+2023-10-05 17:32:31.609 [info] From github.com:xpay-org/xpaycheckout-app
+ * branch            dev        -> FETCH_HEAD
+2023-10-05 17:32:32.854 [info] > git ls-files --stage -- /home/scrviyy/Trabalho/XPay/xpaycheckout-app/pages/auth/register.tsx [2ms]
+2023-10-05 17:32:32.869 [info] > git cat-file -s b0a92e7986e434da18b206da4eb546c3e9d39f0d [2ms]
+2023-10-05 17:32:32.883 [info] > git show --textconv :pages/auth/register.tsx [2ms]
+2023-10-05 17:32:36.169 [info] > git push origin dev:dev [4547ms]
+2023-10-05 17:32:36.169 [info] To github.com:xpay-org/xpaycheckout-app.git
+   faab60e..a0b4f23  dev -> dev
+2023-10-05 17:32:36.198 [info] > git config --get commit.template [13ms]
+2023-10-05 17:32:36.199 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [2ms]
+2023-10-05 17:32:36.211 [info] > git status -z -uall [2ms]

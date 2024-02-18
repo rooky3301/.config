@@ -1,0 +1,1 @@
+2023-10-03 17:29:20.275 [error] electron #140: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_RESET

@@ -1,0 +1,31 @@
+2023-12-24T02:59:02.796Z 0: 
+
+----------------------------------------------
+2023-12-24T02:59:02.831Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.39"}, modulepath: /home/scrviyy/.config/discord/0.0.39/modules
+2023-12-24T02:59:02.845Z 2: ✅ webContents.created web1 ""
+2023-12-24T02:59:02.853Z 3: ✅ window.created win1 "discord"
+2023-12-24T02:59:03.209Z 4: ✅ webContents.did-finish-load web1
+2023-12-24T02:59:13.604Z 5: ✅ webContents.created web2 ""
+2023-12-24T02:59:13.620Z 6: ✅ window.created win2 "Discord"
+2023-12-24T02:59:17.513Z 7: ✅ webContents.did-finish-load web2
+2023-12-24T02:59:17.612Z 8: window.close win1
+2023-12-24T02:59:17.619Z 9: webContents.destroyed web1
+2023-12-24T02:59:17.622Z 10: window.closed win1
+2023-12-24T04:18:17.188Z 11: window.close win2
+2023-12-24T23:57:36.752Z 0: 
+
+----------------------------------------------
+2023-12-24T23:57:36.776Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.39"}, modulepath: /home/scrviyy/.config/discord/0.0.39/modules
+2023-12-24T23:57:36.780Z 2: ✅ webContents.created web1 ""
+2023-12-24T23:57:36.784Z 3: ✅ window.created win1 "discord"
+2023-12-24T23:57:37.017Z 4: ✅ webContents.did-finish-load web1
+2023-12-24T23:57:37.378Z 5: ✅ webContents.created web2 ""
+2023-12-24T23:57:37.385Z 6: ✅ window.created win2 "Discord"
+2023-12-24T23:57:39.796Z 7: ✅ webContents.did-finish-load web2
+2023-12-24T23:57:39.897Z 8: window.close win1
+2023-12-24T23:57:39.905Z 9: webContents.destroyed web1
+2023-12-24T23:57:39.910Z 10: window.closed win1
+2023-12-25T00:19:51.416Z 11: window.close win2
+2023-12-25T00:19:51.423Z 12: before-quit
+2023-12-25T00:19:51.425Z 13: window.close win2
+2023-12-25T00:19:51.435Z 14: webContents.destroyed web2
